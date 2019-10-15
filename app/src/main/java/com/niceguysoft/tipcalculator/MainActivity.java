@@ -45,6 +45,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    // Just init the views
     protected void initViews () {
         billAmountEditText = findViewById(R.id.editTextBillAmount);
         tipPrecEditText = findViewById(R.id.editTextTipPrec);
